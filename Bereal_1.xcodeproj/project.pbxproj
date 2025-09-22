@@ -102,7 +102,7 @@
 		CB73D388290E3B4A00C12538 = {
 			isa = PBXGroup;
 			children = (
-				CB73D393290E3B4A00C12538 /* Bereal */,
+				CB73D393290E3B4A00C12538 /* Bereal_1 */,
 				CB73D392290E3B4A00C12538 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -115,7 +115,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CB73D393290E3B4A00C12538 /* Bereal */ = {
+		CB73D393290E3B4A00C12538 /* Bereal_1 */ = {
 			isa = PBXGroup;
 			children = (
 				CB73D394290E3B4A00C12538 /* AppDelegate.swift */,
@@ -131,7 +131,7 @@
 				CB73D3A2290E3B4C00C12538 /* Info.plist */,
 				CB6997472910E7E3007EDA6B /* Fonts */,
 			);
-			path = Bereal;
+			path = Bereal_1;
 			sourceTree = "<group>";
 		};
 		CB7896ED2935DB4100635932 /* Models */ = {
@@ -381,7 +381,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Bereal/Info.plist;
+				INFOPLIST_FILE = Bereal_1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -409,7 +409,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Bereal/Info.plist;
+				INFOPLIST_FILE = Bereal_1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
